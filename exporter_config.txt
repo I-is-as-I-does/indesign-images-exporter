@@ -1,0 +1,1 @@
+ext=jpg;res=max;dimn=700;limit=adapt;rw=false;html=false;path=./media/
