@@ -58,7 +58,11 @@ Run the script.
 Files will be exported in the same directory as your InDesign file, in dedicated folders.
 > Example output folder: **flowers-jpg-adapt-700-max**  
 
-Please note that if images are **cropped** in your layout, exported images will be **cropped too**.  
+IMPORTANT
+Please note that it's the **blocks** that are exported as images.  
+If images are **cropped** in your layout, exported images will be **cropped too**.  
+On the other hand, if a block is bigger than an image, margin will be rendered.  
+If you get unwanted margins, check your blocks fill property.  
 
 ### About HTML
 
